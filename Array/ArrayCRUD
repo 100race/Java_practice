@@ -1,1 +1,0 @@
-Student(vo)를 service하는 StudentService를 통해 add, delete, find, update를 한다.
